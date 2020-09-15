@@ -4,7 +4,7 @@
 
 ## 💪🏼 I'm a Developer, Rails Evangelist and Teacher!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning some TDD approaches for better code implementation 
 - 👯 I’m looking to collaborate with other content developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to write 📝 markdowns!
