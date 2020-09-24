@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning some TDD approaches for better code implementation 
 - 👯 I’m looking to collaborate with other content developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Release all my draft articles about Design and Coding
 - ⚡ Fun fact: I love to write 📝 markdowns!
 
 
