@@ -14,7 +14,7 @@
 
 [<img align="left" alt="gabbro.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Gabriel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gabriel | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+[<img align="left" alt="Gabriel | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="gb_s0 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -55,4 +55,5 @@
 
 [website]: https://gabbro.tk
 [instagram]: https://instagram.com/gb_s0
+[medium]: https://medium.com/@gabriel.smpenha
 [linkedin]: https://linkedin.com/in/gabbro
