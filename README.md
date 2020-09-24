@@ -17,7 +17,6 @@
 [<img align="left" alt="Gabriel | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 [<img align="left" alt="gb_s0 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
 <br />
 
 ### • Languages:
