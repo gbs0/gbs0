@@ -53,7 +53,7 @@
 
 
 
-[website]: https://gabbro.tk
+[website]: https://gabs.website
 [instagram]: https://instagram.com/gb_s0
 [medium]: https://medium.com/@gabriel.smpenha
 [linkedin]: https://linkedin.com/in/gabbro
