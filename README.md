@@ -48,11 +48,6 @@
 
 ---
 
-
-<img align="center" alt="gbs0 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gbs0&show_icons=true&hide_border=true" />
-
-
-
 [website]: https://gabs.website
 [instagram]: https://instagram.com/gb_s0
 [medium]: https://medium.com/@gabriel.smpenha
