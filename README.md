@@ -51,4 +51,5 @@
 [website]: https://gabs.website
 [instagram]: https://instagram.com/gb_s0
 [medium]: https://medium.com/@gabriel.smpenha
+[dev.to]: https://dev.to/gbs0
 [linkedin]: https://linkedin.com/in/gabbro
