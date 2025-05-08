@@ -50,7 +50,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,vscode,github,docker,figma,github,postman,apple,linux,ubuntu,discord,webflow" />
+    <img src="https://skillicons.dev/icons?i=bash,git,vscode,github,figma,postman,apple,linux,ubuntu,discord,webflow" />
   </a>
   <br/>
 </div>
