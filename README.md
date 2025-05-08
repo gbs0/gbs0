@@ -9,7 +9,6 @@
 
 ### • Connect with me:
 
-[<img align="left" alt="gabbro.tk" src="https://skillicons.dev/icons?i=apple" />][website]
 [<img align="left" alt="Gabriel | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 [<img align="left" alt="gb_s0 | Instagram" src="https://skillicons.dev/icons?i=instagram" />][instagram]
 
