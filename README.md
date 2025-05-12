@@ -61,13 +61,17 @@
 
 ### • Projects:
 #### 📊 CoordenaFit [![Website](https://img.shields.io/website?label=CoordenaFit&style=for-the-badge&url=https%3A%2F%2Fcoordenafit.fly.dev)](coordenafit)
+
 [coordenafit]
+
 🇧🇷 Plataforma web para gestores de academias, permitindo monitorar performance de colaboradores, acompanhar histórico de evolução e coletar feedbacks de clientes em tempo real. Facilita decisões baseadas em dados para melhorar engajamento e produtividade.
 
 🇺🇸 A web platform for gym managers to monitor staff performance, track progress history and collect real-time customer feedback. Empowers data-driven decisions to boost engagement and productivity.
 
 #### 🔘 Chezz Univoid [![Website](https://img.shields.io/website?label=ChezzUnivoid&style=for-the-badge&url=https%3A%2F%2Fchezz-univoid-game.vercel.app/)](chezzunivoid)
+
 [chezzunivoid]
+
 🇧🇷 Um pequeno jogo de xadrez desenvolvido com React.js & Next.js feito como objeto de estudo em Typescript
 
 🇺🇸 A web platform chess game for implement React.js & Next.js with Typescript for study purposes.
